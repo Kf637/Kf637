@@ -28,6 +28,9 @@
   <a href="https://crowdin.com/project/homarr_labs">
     <img src="https://img.shields.io/badge/Homarr-Partial%20Translation%20%7C%20Norwegian-1e90ff?style=for-the-badge" alt="Homarr" />
   </a>
+  <a href="https://github.com/tauri-apps/tauri">
+    <img src="https://img.shields.io/badge/Tauri bundler-Full%20Translation%20%7C%20Norwegian-1e90ff?style=for-the-badge" alt="Tauri" />
+  </a>
 </p>
 
 ---
