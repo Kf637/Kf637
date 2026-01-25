@@ -17,7 +17,7 @@
   <tr>
     <td width="50%" valign="top" align="center">
       <h3 align="center">SCP Secret Laboratory Map</h3>
-      <p align="center">Interactive map for SCP:SL servers.</p>
+      <p align="center">Interactive map of SCP:SL servers.</p>
       <a href="https://scpslmap.com">https://scpslmap.com</a>
     </td>
     <td width="50%" valign="top" align="center">
