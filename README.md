@@ -63,6 +63,11 @@
     <td>Full translation</td>
     <td><a href="https://github.com/tauri-apps/tauri">GitHub</a></td>
   </tr>
+  <tr>
+    <td>SCP: SL Servers</td>
+    <td>Full translation</td>
+    <td><a href="https://scplist.kr">https://scplist.kr</a></td>
+  </tr>
 </table>
 
 ---
