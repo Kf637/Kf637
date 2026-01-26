@@ -13,20 +13,19 @@
 
 <h2 align="center">Projects</h2>
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <h3 align="center">SCP Secret Laboratory Map</h3>
-      <p align="center">Interactive map of SCP:SL servers.</p>
-      <a href="https://scpslmap.com">https://scpslmap.com</a>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <h3 align="center">Steam Account Reputation Check</h3>
-      <p align="center">Quick reputation lookup for Steam accounts.</p>
-      <a href="https://steamrep.kf637.tech">https://steamrep.kf637.tech</a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+  <h3>SCP Secret Laboratory Map</h3>
+  <p>Interactive map of SCP:SL servers.</p>
+  <a href="https://scpslmap.com">https://scpslmap.com</a>
+
+  <br /><br />
+
+  <h3>Steam Account Reputation Check</h3>
+  <p>Quick reputation lookup for Steam accounts.</p>
+  <a href="https://steamrep.kf637.tech">https://steamrep.kf637.tech</a>
+
+</div>
 
 ---
 
@@ -53,12 +52,7 @@
     <td>Full translation</td>
     <td><a href="https://github.com/MiauDex/MiauDex-Translations">GitHub</a></td>
   </tr>
-  <tr>
-    <td>Homarr</td>
-    <td>Partial translation</td>
-    <td><a href="https://crowdin.com/project/homarr_labs">Crowdin</a></td>
-  </tr>
-  <tr>
+    <tr>
     <td>Tauri bundler</td>
     <td>Full translation</td>
     <td><a href="https://github.com/tauri-apps/tauri">GitHub</a></td>
@@ -67,6 +61,16 @@
     <td>SCP: SL Servers</td>
     <td>Full translation</td>
     <td><a href="https://scplist.kr">https://scplist.kr</a></td>
+  </tr>
+  <tr>
+    <td>Homarr</td>
+    <td>Partial translation</td>
+    <td><a href="https://crowdin.com/project/homarr_labs">Crowdin</a></td>
+  </tr>
+  <tr>
+    <td>Uptime Kuma</td>
+    <td>Partial translation</td>
+    <td><a href="https://weblate.kuma.pet/">Weblate</a></td>
   </tr>
 </table>
 
