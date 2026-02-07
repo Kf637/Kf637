@@ -4,8 +4,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=Kf637&show_icons=true&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api?username=Kf637&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <a href="https://github-readme-stats.kf637.tech/api?username=Kf637&show_icons=true&theme=tokyonight">
+    <img src="https://github-readme-stats.kf637.tech/api?username=Kf637&show_icons=true&theme=tokyonight" alt="GitHub stats" />
   </a>
 </p>
 
