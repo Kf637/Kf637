@@ -63,6 +63,11 @@
     <td><a href="https://scplist.kr">https://scplist.kr</a></td>
   </tr>
   <tr>
+    <td>Betterlytics</td>
+    <td>Full translation</td>
+    <td><a href="https://github.com/betterlytics/betterlytics">GitHub</a></td>
+  </tr>
+  <tr>
     <td>Homarr</td>
     <td>Partial translation</td>
     <td><a href="https://crowdin.com/project/homarr_labs">Crowdin</a></td>
