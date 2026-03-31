@@ -23,7 +23,7 @@
 
   <h3>Steam Account Reputation Check</h3>
   <p>Quick reputation lookup for Steam accounts.</p>
-  <a href="https://steamrep.kf637.tech">https://steamrep.kf637.tech</a>
+  <a href="https://steamrep.no">https://steamrep.kf637.tech</a>
 
 </div>
 
