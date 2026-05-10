@@ -77,6 +77,11 @@
     <td>Partial translation</td>
     <td><a href="https://weblate.kuma.pet/">Weblate</a></td>
   </tr>
+  <tr>
+    <td>Beszel</td>
+    <td>Partial translation</td>
+    <td><a href="https://crowdin.com/project/beszel">Crowdin</a></td>
+  </tr>
 </table>
 
 ---
